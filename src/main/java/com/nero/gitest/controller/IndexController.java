@@ -8,7 +8,7 @@ public class IndexController {
 
     @RequestMapping("info")
     public String info() {
-        return "123ffggg";
+        return "123ffgggfd";
     }
 
     //修改了testgit提交
